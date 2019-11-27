@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/store/utils/JDBCUtils.java=UTF-8
+encoding//src/cn/itcast/store/web/base/BaseServlet.java=UTF-8
+encoding//src/cn/itcast/store/web/filter/EncodingFilter.java=UTF-8

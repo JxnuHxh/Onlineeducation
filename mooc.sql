@@ -1,20 +1,5 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : localhost
-Source Server Version : 50045
-Source Host           : localhost:3306
-Source Database       : mooc
-
-Target Server Type    : MYSQL
-Target Server Version : 50045
-File Encoding         : 65001
-
-Date: 2018-10-29 17:51:27
-*/
-
-SET FOREIGN_KEY_CHECKS=0;
-
+ET FOREIGN_KEY_CHECKS=0;
+S
 -- ----------------------------
 -- Table structure for `course`
 -- ----------------------------

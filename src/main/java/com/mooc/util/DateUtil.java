@@ -12,8 +12,6 @@ public static String getId(){
 	Date date=new Date();
 	String resu=sdf.format(date)+(random.nextInt(1000)+1000);
 	return resu;
-	
-	
 }
 
 public static void main(String args[]){
